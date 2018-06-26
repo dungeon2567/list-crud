@@ -23,7 +23,7 @@
 </template>
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'ListCrud',
     props: {
       value: {
         type: Array,
